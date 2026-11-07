@@ -1,0 +1,24 @@
+:root {
+  /* PRIMARY COLORS */
+  --color-primary: #075A9E;
+  --color-primary-dark: #064779;
+  --color-secondary: #F6F8FC;
+
+  /* BASIC COLORS */
+  --color-white: #FFFFFF;
+  --color-black: #202B3C;
+  --color-gray: #667085;
+  --color-light-gray: #E6EAF0;
+
+  /* TYPOGRAPHY */
+  --font-family: Inter, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+  /* BORDER RADIUS */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+
+  /* BOX SHADOW */
+  --shadow-sm: 0 2px 8px rgba(25, 42, 70, 0.05);
+  --shadow-md: 0 6px 18px rgba(25, 42, 70, 0.08);
+}
